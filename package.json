@@ -5,7 +5,7 @@
   "author": "Univdev <rhdwkrxla68@gmail.com>",
   "private": true,
   "scripts": {
-    "dev": "nuxt",
+    "dev": "gulp",
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
